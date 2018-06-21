@@ -1,0 +1,5 @@
+# Directories potentially created on remote AFP share
+Temporary Items
+.idea/
+*.iml
+*.log
